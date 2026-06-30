@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5c0035/krp/v1/juan/0
+seq: 0
+front:
+  text: 二經同卷女三
+  hash: sha256:fdb254f841dffbd094c03e896e9cd54d1dc51bade1081affa3b1fe4ac67fa8f2
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5c0035_HFL_000-001a, image: hfl/0343/0343-064.png}
+body:
+  text: 太上洞神天公消魔護國經上中下太上說紫微神兵護國消魔經
+  hash: sha256:ea7c4835bcfc12db111082762ed511a6b9358b54df9678d1267fc64ab4edc6a2
+metadata:
+  title: 太上洞神天公消魔護國經
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 00:16:58.589255'
+  source:
+    repository: kanripo
+    path: KR5c0035/KR5c0035_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:a632954dfc2c43d6596814de4d2da87f71751086ee4b5397481d3dbe5a083b7d
