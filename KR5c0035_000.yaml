@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR5c0035_HFL_000-001a, image: hfl/0343/0343-064.png}
 body:
-  text: 太上洞神天公消魔護國經上中下太上說紫微神兵護國消魔經
-  hash: sha256:ea7c4835bcfc12db111082762ed511a6b9358b54df9678d1267fc64ab4edc6a2
+  text: 太上洞神天公消魔護國經上中下太上說紫㣲神兵護國消魔經
+  hash: sha256:b9a3913bb06197f9d0dd2808cf5258e43857832caf74e3a671ec8345983ff938
 metadata:
   title: 太上洞神天公消魔護國經
   edition:
@@ -23,4 +23,4 @@ metadata:
     YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
     HFL: http://img.kanripo.org/daoist/ztdz/
     WYG: http://img.kanripo.org/general/skqs/wyg/
-hash: sha256:a632954dfc2c43d6596814de4d2da87f71751086ee4b5397481d3dbe5a083b7d
+hash: sha256:833d05165dd2dd12f0b8ea7fbf3e64c314a31cd05777dee601c433d3a6b19962
